@@ -17,5 +17,4 @@ Complete User Stories :
 Notes:
 
 Walkthrough of all user stories:
-
 ![Video Walkthrough](TipCalculator.gif)
